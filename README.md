@@ -33,6 +33,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 <br />
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=deepkantawala&layout=compact)
 
 
