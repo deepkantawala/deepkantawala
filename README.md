@@ -1,5 +1,5 @@
 
-# Hi there, I am Deep a a computer engineer; I am currently perusing my post-graduation. I have worked as a cloud data engineer and an AI developer.. 👋 
+# Hi there, I am Deep a computer engineer; I recently completed my post-graduation in applied networking, I am currently searching for a new opportunity. I have worked as a devops, data analyst, and an AI developer.. 👋 
 
 
 ### Connect with me:
